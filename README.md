@@ -26,16 +26,8 @@ markdown
 > 3. 列表3
 >
 >> 二级区块
->>
+
 >>     shell
 >>     python
 >>     ruby
 
->给出一个例子代码：
->
->
->> 我就这样写了
->> 
->>     return shell_exec("echo $input")
->>     helloevery
->
